@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* The ability to navigate by jumping to external applications is provided.
